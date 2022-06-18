@@ -13,11 +13,11 @@
 
 ![texto por si no carga imagen](Imagenes\Imagen.png)
 
-git init para iniciar 
-git add . para añadir todo
-git add ./README.md para añadir c/u
-git commit -m "initial commit" corte de caja
-git branch -M main sirve para hacer varias versiones
-git remote add origin https://github.com/MaribelAmayaG/Prueba.git añade repositorio remoto con origin en ese repositorio
-git remote -v para comprobar
-git push origin main
+- git init para iniciar 
+- git add . para añadir todo
+- git add ./README.md para añadir c/u
+- git commit -m "initial commit" corte de caja
+- git branch -M main sirve para hacer varias versiones
+- git remote add origin https://github.com/MaribelAmayaG/Prueba.git añade repositorio remoto con origin en ese repositorio
+- git remote -v para comprobar
+- git push origin main

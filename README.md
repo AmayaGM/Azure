@@ -11,7 +11,7 @@
 
 [[palabra entre corchetas](link)](https://github.com/)
 
-![texto por si no carga imagen](Imagenes\Imagen.png)
+![texto por si no carga imagen](https://github.com/MaribelAmayaG/Prueba/blob/main/Imagenes/Imagen.png?raw=true)
 
 - git init para iniciar 
 - git add . para añadir todo

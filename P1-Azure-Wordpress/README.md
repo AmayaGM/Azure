@@ -4,7 +4,7 @@
 
 **Paso 1 _Encontrar Wordpress_**
 - Poner en la barra de busqueda "Marketplace"
-![Paso 1.1](/imagenes/1.png)
+![Paso 1.1](P1-Azure-Wordpress/imagenes/1.png)
 - Posteriormente en la barra de busqueda de Marketplace teclear "WordPress"
 ![Paso 1.2](/imagenes/2.png)
 - Elegir WordPress
